@@ -1,0 +1,1 @@
+var json_polis_10 = {"type":"FeatureCollection","name":"polis_10","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":1.0,"polis":null},"geometry":{"type":"Point","coordinates":[50.171198850438387,37.207229887520285]}}]}

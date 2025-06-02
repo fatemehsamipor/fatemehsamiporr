@@ -1,0 +1,1 @@
+var json_nezampezeshki_21 = {"type":"FeatureCollection","name":"nezampezeshki_21","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":1.0,"nezampezes":null},"geometry":{"type":"Point","coordinates":[50.156185059002688,37.186884949809297]}}]}

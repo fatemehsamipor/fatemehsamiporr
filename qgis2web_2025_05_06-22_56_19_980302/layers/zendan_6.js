@@ -1,0 +1,1 @@
+var json_zendan_6 = {"type":"FeatureCollection","name":"zendan_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"zendan":null},"geometry":{"type":"Point","coordinates":[50.159334481075135,37.18871336104214]}}]}

@@ -1,1 +1,0 @@
-var json_farmandari_18 = {"type":"FeatureCollection","name":"farmandari_18","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","id":"1","farmandari":null},"geometry":{"type":"Point","coordinates":[50.157483853978661,37.186035903961745]}}]}

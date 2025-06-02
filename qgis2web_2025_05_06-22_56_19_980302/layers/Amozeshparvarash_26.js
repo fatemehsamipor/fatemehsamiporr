@@ -1,1 +1,0 @@
-var json_Amozeshparvarash_26 = {"type":"FeatureCollection","name":"Amozeshparvarash_26","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","amozesh":"amozesh parvaresh"},"geometry":{"type":"Point","coordinates":[50.157250834421561,37.193228016431135]}}]}

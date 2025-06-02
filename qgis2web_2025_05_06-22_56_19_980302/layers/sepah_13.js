@@ -1,1 +1,0 @@
-var json_sepah_13 = {"type":"FeatureCollection","name":"sepah_13","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","swepah":null},"geometry":{"type":"Point","coordinates":[50.157577068855659,37.192878854938797]}}]}

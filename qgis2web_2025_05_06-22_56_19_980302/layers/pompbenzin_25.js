@@ -1,1 +1,0 @@
-var json_pompbenzin_25 = {"type":"FeatureCollection","name":"pompbenzin_25","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","benzin":"pomp benzin"},"geometry":{"type":"Point","coordinates":[50.157378631250445,37.189302838203332]}}]}
